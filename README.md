@@ -1,3 +1,3 @@
-# LaTeX
-LaTeX Archive
+# $\LaTeX$
+$\LaTeX$ Archive
 1. PGF-TikZ: TikZ practice directory.
